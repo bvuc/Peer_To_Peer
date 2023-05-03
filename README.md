@@ -24,6 +24,7 @@ this project is to develop a client-server application that allows peer-to-peer 
 6. run the client: ./client
 
 Now you will have several options to decide. I am attaching some screenshots of a case where there list of client and broadcasting and peer to peer messagin is done.
+
 https://github.com/bvuc/Peer_To_Peer/blob/main/1.jpg
 
 https://github.com/bvuc/Peer_To_Peer/blob/main/2.jpg
